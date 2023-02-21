@@ -1,1 +1,1 @@
-console.log('Zovem se Kolega');
+console.log('Zovem se Kolega Ante Antic');
