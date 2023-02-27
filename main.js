@@ -1,1 +1,1 @@
-console.log('Zovem se Kolega Ante Antic');
+console.log('Zovem se Kolega Ante Antic i ovo je fork test');
